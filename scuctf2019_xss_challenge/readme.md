@@ -1,0 +1,1 @@
+# SCUCTF 2019 XSS-challenges source code

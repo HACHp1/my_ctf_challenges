@@ -1,0 +1,11 @@
+第一题：
+http://xxx/hachp1/
+xxx/hachp1/love/index.php?greet=Hello
+第二题：
+http://xxx/hachp1/
+http://xxx/hachp1/wuziqi/index.php?guest_name=hachp1
+第三题：
+http://xxx/hachp1/
+xxx/hachp1/pintu/index.php?name=hachp1&ft_id=0
+xxx/hachp1/pintu/index.php?name=redogwu&ft_id=1
+xxx/hachp1/pintu/index.php?name=daiwei&ft_id=2

